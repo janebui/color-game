@@ -1,5 +1,6 @@
 # color-game
 Coded by Jane Bui | http://www.janebui.com
+
 RGB Color Game is a class project from Colt Steele's Web Developer Bootcamp course on Udemy.
 
 
