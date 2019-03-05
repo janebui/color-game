@@ -1,4 +1,4 @@
-# color-game
+# RGB Color Game
 Coded by Jane Bui | http://www.janebui.com
 
 RGB Color Game is a class project from Colt Steele's Web Developer Bootcamp course on Udemy.
@@ -6,7 +6,7 @@ RGB Color Game is a class project from Colt Steele's Web Developer Bootcamp cour
 
 ## Getting Started
 
-Open colorgame.html to begin playing. This game requires some basic knowledge about the RGB color system, which you can read more about here: https://www.w3schools.com/colors/colors_rgb.asp
+Download the files and open colorgame.html, OR preview it at: https://codepen.io/janebui/pen/xBRjjr. This game requires some basic knowledge about the RGB color system, which you can read more about here: https://www.w3schools.com/colors/colors_rgb.asp
 
 ## Game Rules
 
